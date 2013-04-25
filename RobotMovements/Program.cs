@@ -11,7 +11,7 @@ class Program
             string line = reader.ReadLine();
             if (null == line)
                 continue;
-            // do something with line
+            
         }
     }
 }
